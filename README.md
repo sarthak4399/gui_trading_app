@@ -326,16 +326,6 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure cross-platform compatibility
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-- 📧 Email: support@hfttrading.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-repo/wiki)
-- 💬 Discord: [Trading Community](https://discord.gg/trading)
 
 ## Acknowledgments
 
@@ -368,32 +358,10 @@ git push origin feature/my-feature
 # Create Pull Request
 ```
 
-### Code Style
-- Follow C++17 best practices
-- Use consistent naming conventions
-- Add comments for complex algorithms
-- Include unit tests for new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
 
 - **Yahoo Finance** for providing free market data API
 - **TGUI/SFML** for excellent GUI framework
 - **nlohmann/json** for JSON parsing library
 - **Trading Community** for strategy insights and feedback
 
-## 📞 Support & Contact
-
-- 🐛 **Bug Reports**: [GitHub Issues](../../issues)
-- 💡 **Feature Requests**: [GitHub Discussions](../../discussions)  
-- 📧 **Email**: support@hft-trading-app.com
-- 💬 **Discord**: [Trading Dev Community](https://discord.gg/trading-dev)
-
----
-
-**⭐ If you find this project helpful, please give it a star!**
-
-**Happy Trading! 🚀📈**
